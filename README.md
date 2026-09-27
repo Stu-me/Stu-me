@@ -72,13 +72,12 @@ A project focused on improving technical interview preparation through multiple 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stu-me&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Sundram Kumar's GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stu-me&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=3600" alt="" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stu-me&hide_border=true&theme=tokyonight" alt="Sundram Kumar's GitHub contribution streak" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stu-me&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Sundram Kumar's most used programming languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stu-me&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=3600" alt="Sundram Kumar's most used programming languages" />
 
 ## 🤝 Connect With Me
 
@@ -98,7 +97,7 @@ A project focused on improving technical interview preparation through multiple 
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Stu-me/count.svg" alt="Profile visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Stu-me" />
 </p>
 
 ---
