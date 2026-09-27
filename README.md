@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **Stu-me/Stu-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://github.com/Stu-me/Stu-me/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+](https://leetcode.com/u/sundram_33/)
