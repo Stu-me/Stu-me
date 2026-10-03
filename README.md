@@ -1,8 +1,8 @@
 # Hi 👋 I'm Sundram Kumar
 
-## AI & Full-Stack Developer | Open to Entry-Level Opportunities
+## AI Enabled Full-Stack Developer | Open to Opportunities
 
-I’m a fresher and aspiring software engineer from India who enjoys building practical web applications and AI-powered products. I’m focused on strengthening my problem-solving, backend, and full-stack development skills by turning ideas into working projects.
+I’m a FULL STACK software engineer from India who enjoys building practical web applications and AI-powered products. I’m focused on strengthening my problem-solving, backend, and full-stack development skills by turning ideas into working projects.
 
 <a href="mailto:stusundram@email.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" /></a>
 <a href="https://github.com/Stu-me"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub" /></a>
