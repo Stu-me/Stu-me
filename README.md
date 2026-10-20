@@ -97,7 +97,7 @@ A project focused on improving technical interview preparation through multiple 
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Stu-me" />
+  <img src="https://komarev.com/ghpvc/?username=Stu-me alt="Profile Views" />
 </p>
 
 ---
